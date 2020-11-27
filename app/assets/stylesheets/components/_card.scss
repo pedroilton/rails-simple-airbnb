@@ -1,0 +1,30 @@
+.flat-card {
+  width: 100%;
+  position: relative;
+  margin: .5rem 0 1rem 0;
+  border-radius: 2px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+  height: 100%;
+}
+
+.flat-card-content {
+  padding: 24px;
+  background-color: #F8F9FA;
+  height: 100%;
+}
+
+.icons {
+  // line-height: 80%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.icons-list {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
